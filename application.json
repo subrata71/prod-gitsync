@@ -10,6 +10,8 @@
   "unreadCommentThreads": 0,
   "color": "#C2DAF0",
   "icon": "medal",
+  "unpublishedCustomJSLibs": [],
+  "publishedCustomJSLibs": [],
   "evaluationVersion": 2,
   "applicationVersion": 2,
   "isManualUpdate": false,
